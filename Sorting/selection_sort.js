@@ -14,8 +14,8 @@ selection_sort = (arr) => {
       arr[i] = arr[min];
       arr[min] = temp;
     }
-    console.log(`new: ${arr}`);
-    console.log("one pass complete");
+    console.log(`New: ${arr}`);
+    console.log("One Pass Complete");
   }
   console.log(arr);
 };

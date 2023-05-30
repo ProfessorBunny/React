@@ -16,5 +16,5 @@ bubble_sort = (arr) => {
   }
   console.log(arr);
 };
-// bubble_sort([4,35,-4,1,12,5,22])
-bubble_sort([5, 1, 2, 3, 4]);
+bubble_sort([4, 35, -4, 1, 12, 5, 22]);
+// bubble_sort([5, 1, 2, 3, 4]);
